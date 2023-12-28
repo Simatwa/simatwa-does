@@ -30,6 +30,8 @@ Github did'nt organized my projects in a manner that I liked so I created this.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=GPT-Bot)](https://github.com/Simatwa/GPT-Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=gpt-login)](https://github.com/Simatwa/gpt-login)
 
+From debugging glitches to crafting elegant code, consider my keyboard an extension of your programming arsenal.
+
 Did I satisfy your expectations? If not feel free to submit an [issue](https://github.com/Simatwa/simatwa-does/issues/new). I also welcome project proposals.
 
 If I did, then why not leave a star and then give me that [gig on Fiverr](https://fiverr.com/smartwa_254).
