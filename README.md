@@ -8,7 +8,7 @@ simatwa-does
 
 Github did'nt organized my projects in a manner that I liked so I created this.
 
-> I bet you would like this at the end. If not submit an issue [here](https://github.com/Simatwa/simatwa-does/issues/new)
+> I bet you would appreciate this at the end. If not, please submit an issue [here](https://github.com/Simatwa/simatwa-does/issues/new).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=gpt-cli)](https://github.com/Simatwa/gpt-cli) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=WebChatGPT)](https://github.com/Simatwa/WebChatGPT)
 
@@ -32,7 +32,7 @@ Github did'nt organized my projects in a manner that I liked so I created this.
 
 Did I satisfy your expectations? If not feel free to submit an [issue](https://github.com/Simatwa/simatwa-does/issues/new). I also welcome project proposals.
 
-If I did then why not give me that [gig on Fiverr](https://fiverr.com/smartwa_254).
+If I did, then why not leave a star and then give me that [gig on Fiverr](https://fiverr.com/smartwa_254).
 
 ## Disclaimer
 
