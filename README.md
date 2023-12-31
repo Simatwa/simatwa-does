@@ -12,6 +12,8 @@ Github did'nt organized my projects in a manner that I liked so I created this.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=gpt-cli)](https://github.com/Simatwa/gpt-cli) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=WebChatGPT)](https://github.com/Simatwa/WebChatGPT)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=tgpt2)](https://github.com/Simatwa/tgpt2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=revChatGPT)](https://github.com/Simatwa/revChatGPT)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=smartbetsAPI)](https://github.com/Simatwa/smartbetsAPI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=y2mate-api)](https://github.com/Simatwa/y2mate-api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=yt5)](https://github.com/Simatwa/yt5) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=livescore-api)](https://github.com/Simatwa/livescore-api)
