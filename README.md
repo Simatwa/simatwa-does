@@ -24,7 +24,7 @@ Github did'nt organized my projects in a manner that I liked so I created this.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=qrcode-maker)](https://github.com/Simatwa/qrcode-maker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=ip-api)](https://github.com/Simatwa/ip-api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=smart-book)](https://github.com/Simatwa/smart-book) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=tobin)](https://github.com/Simatwa/tobin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=smart-book)](https://github.com/Simatwa/smart-book) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=Flask-LMS)](https://github.com/Simatwa/Flask-LMS)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=cookie-hunter)](https://github.com/Simatwa/cookie-hunter) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=website-cloner)](https://github.com/Simatwa/website-cloner)
 
