@@ -4,6 +4,8 @@ simatwa-does
 
 <p align='center'>
 <img src='https://img.shields.io/static/v1?logo=github&style=flat-square&message=Does&labelColor=blue&color=green&label=Simatwa&logoColor=black'/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/simatwa-does"/></a>      
+
 </p>
 
 Github did'nt organized my projects in a manner that I liked so I created this.
