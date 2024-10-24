@@ -8,9 +8,7 @@ simatwa-does
 
 </p>
 
-Github did'nt organized my projects in a manner that I liked so I created this.
-
-> I bet you would appreciate this at the end. If not, please submit an issue [here](https://github.com/Simatwa/simatwa-does/issues/new).
+Github does not organize my projects in a manner that I like so I created this.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=gpt-cli)](https://github.com/Simatwa/gpt-cli) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=WebChatGPT)](https://github.com/Simatwa/WebChatGPT)
 
@@ -33,6 +31,13 @@ Github did'nt organized my projects in a manner that I liked so I created this.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=svinf3)](https://github.com/Simatwa/svinf3) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=ai-imager)](https://github.com/Simatwa/ai-imager)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=GPT-Bot)](https://github.com/Simatwa/GPT-Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=gpt-login)](https://github.com/Simatwa/gpt-login)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=fzseries-api)](https://github.com/Simatwa/fzseries-api) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=fzmovies-api)](https://github.com/Simatwa/fzmovies-api)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=free-proxies)](https://github.com/Simatwa/free-proxies) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=pyfreeproxies)](https://github.com/Simatwa/pyfreeproxies)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=pytgpt-bot)](https://github.com/Simatwa/pytgpt-bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Simatwa&repo=kofnet-bot)](https://github.com/Simatwa/kofnet-bot)
 
 From debugging glitches to crafting elegant code, consider my keyboard an extension of your programming arsenal.
 
